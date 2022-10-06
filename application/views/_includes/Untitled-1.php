@@ -1,0 +1,1 @@
+echo password_hash("qweasdzxc", PASSWORD_BCRYPT);
