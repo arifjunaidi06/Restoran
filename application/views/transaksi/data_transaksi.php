@@ -144,10 +144,9 @@
 
 <style>
     @media print {
-    .dashboard-wrapper {
-        margin: 0;
-    }
-
+        .dashboard-wrapper {
+            margin: 0;
+        }
     }
 </style>
  
